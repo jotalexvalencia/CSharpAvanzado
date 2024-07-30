@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-stack-queue-genericos", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14-sortedSetGenerico", "14-sortedSetGenerico\14-sortedSetGenerico.csproj", "{B08AFC47-73FA-4E2A-BB77-A63A2913E4B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_VarNulleable", "15_VarNulleable\15_VarNulleable.csproj", "{46A64DE4-2761-474C-88AB-F838D609A4F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15_VarNulleable", "15_VarNulleable\15_VarNulleable.csproj", "{46A64DE4-2761-474C-88AB-F838D609A4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Dynamic", "15_Dynamic\15_Dynamic.csproj", "{5DD6AEE3-4A64-49CC-9341-B99A6F8CDD16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{46A64DE4-2761-474C-88AB-F838D609A4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46A64DE4-2761-474C-88AB-F838D609A4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46A64DE4-2761-474C-88AB-F838D609A4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD6AEE3-4A64-49CC-9341-B99A6F8CDD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD6AEE3-4A64-49CC-9341-B99A6F8CDD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD6AEE3-4A64-49CC-9341-B99A6F8CDD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD6AEE3-4A64-49CC-9341-B99A6F8CDD16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
